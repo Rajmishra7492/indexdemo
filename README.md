@@ -1,4 +1,4 @@
-# indexdemo
-this is my git repository
-<br>
-author - Raj mishra
+index 
+this is my first git repository
+i don't know (raj mishra)
+
